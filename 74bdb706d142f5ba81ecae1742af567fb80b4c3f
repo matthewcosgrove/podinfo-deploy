@@ -1,0 +1,1 @@
+{"jobID":"a7662687-bb30-897d-1535-47211445e117","spec":{"type":"policy","cause":{"Message":"","User":"Matt Cosgrove \u003cmatthew.cosgrove@dell.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
